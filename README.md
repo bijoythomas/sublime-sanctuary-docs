@@ -47,7 +47,9 @@ The plugin adds the following key bindings.
 
 Reporting
 ---------
-Use **alt+s** to enter a ramda function **or** after highlighting a ramda function
+Use **alt+s** to enter a sanctuary function 
+**or** 
+Use **alt+s** after highlighting a sanctuary function
 
 ![Enter a function](https://github.com/bijoythomas/sublime-sanctuary-docs/blob/master/enter_function.png
 )
