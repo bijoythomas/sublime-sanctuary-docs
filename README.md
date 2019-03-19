@@ -1,4 +1,4 @@
-Sublime Ramda Docs
+Sublime Sanctuary Docs
 =========================
 Sublime may not be a full blown IDE but use this if you can't code without Sanctuary
 
